@@ -1,0 +1,19 @@
+{
+  "name": "wanderershub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rinold5/Wanderers_Hub.git"
+  },
+  "author": "Rinold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rinold5/Wanderers_Hub/issues"
+  },
+  "homepage": "https://github.com/Rinold5/Wanderers_Hub#readme"
+}
