@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rinold5/Wanderers_Hub/issues"
   },
-  "homepage": "https://github.com/Rinold5/Wanderers_Hub#readme"
+  "homepage": "https://github.com/Rinold5/Wanderers_Hub#readme",
+  "dependencies": {
+    "mongoose": "^8.4.0"
+  }
 }
